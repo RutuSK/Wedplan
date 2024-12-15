@@ -1,7 +1,7 @@
 
-# Dreamday Planner
+# Wedplan
 
-Dreamday Planner is a comprehensive wedding planning website that serves as a one-stop solution for organizing all the necessary services required for a wedding. The platform allows users to plan and manage every aspect of a wedding, making it an easy-to-use tool for couples and wedding organizers.
+Wedplan is a comprehensive wedding planning website that serves as a one-stop solution for organizing all the necessary services required for a wedding. The platform allows users to plan and manage every aspect of a wedding, making it an easy-to-use tool for couples and wedding organizers.
 
 ## Features
 
@@ -22,7 +22,7 @@ The code is structured to be simple and efficient. The frontend manages the layo
 
 ## Challenges Faced
 
-The main challenge encountered during the development of Dreamday Planner was the time restriction, which required the team to focus on essential features while maintaining simplicity and functionality.
+The main challenge encountered during the development of Wedplan was the time restriction, which required the team to focus on essential features while maintaining simplicity and functionality.
 
 ## Future Scope
 
@@ -34,7 +34,7 @@ The main challenge encountered during the development of Dreamday Planner was th
 1. Clone the repository.
 2. Download and install XAMPP on your PC.
 3. Create a folder named wedding in this location C:\xampp\htdocs\wedding
-4. Copy and paste all the items from the Dreamday_Planner repository, into the wedding folder.
+4. Copy and paste all the items from the Wedplan repository, into the wedding folder.
 5. Start Xampp server and start apache and mysql.
 6. Open phpmyadmin using this link http://localhost/phpmyadmin/ and create a database with name "wedding".
 7. Inside the project folder a file is wedding.sql is import in phpmyadmin inside wedding database.
